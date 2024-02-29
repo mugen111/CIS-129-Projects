@@ -4,14 +4,14 @@ print ("***************************************")
 print ("My Coffee and Muffin Shop")
 ncoffee = int(input("Number of coffees bought?\n"))
 nmuffins = int(input("Number of muffins bought?\n"))
-nbrownies = int(input("number of brownies bought?\n"))
+nbrownie = int(input("number of brownies bought?\n"))
 nscones = int(input("number of scones bought?\n"))
 print ("***************************************\n")
 print ("***************************************")
 
 cprice = 5.0 * ncoffee
 mprice = 4.0 * nmuffins
-bprice = 3.0 * nbrownies
+bprice = 3.0 * nbrownie
 sprice = 4.0 * nscones
 
 print ("My Coffee and Muffin Shop Receipt")
