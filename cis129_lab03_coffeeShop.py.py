@@ -24,6 +24,7 @@ tax = 0.06 * total
 print ("6% tax: $", tax)
 print ("---------")
 print ("Total: $", total + tax)
+print ("Thank you for coming by. We hope to see you again soon!")
 print ("***************************************")
 
 
