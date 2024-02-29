@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[24]:
-
+# Author: Mary Ellen Fitzpatrick # Module 3 lab #  Interactive text based Coffee Shop
 
 print ("***************************************")
 print ("My Coffee and Muffin Shop")
@@ -24,8 +20,6 @@ print ("---------")
 print ("Total: $", total + tax)
 print ("***************************************")
 
-
-# In[ ]:
 
 
 
