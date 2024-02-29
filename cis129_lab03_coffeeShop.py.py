@@ -14,7 +14,6 @@ mprice = 4.0 * nmuffins
 bprice = 3.0 * nbrownies
 sprice = 4.0 * nscones
 
-
 print ("My Coffee and Muffin Shop Receipt")
 print ("1 Coffee at $5 each: $", cprice)
 print ("2 Muffins at $4 each: $", mprice)
